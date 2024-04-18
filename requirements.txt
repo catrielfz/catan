@@ -1,0 +1,5 @@
+Django
+pycodestyle
+django-nose
+coverage
+django-cors-headers
